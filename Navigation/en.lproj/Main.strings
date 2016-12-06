@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Podglad mapy"; ObjectID = "JPt-KZ-jru"; */
+"JPt-KZ-jru.text" = "Podglad mapy";
+
+/* Class = "UIButton"; normalTitle = "Mapa"; ObjectID = "NSc-sT-EZV"; */
+"NSc-sT-EZV.normalTitle" = "Mapa";
+
+/* Class = "UITabBarItem"; title = "Nawigacja"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Nawigacja";
+
+/* Class = "UITabBarItem"; title = "Ustawienia"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Ustawienia";
+
+/* Class = "UILabel"; text = "Nawigacja"; ObjectID = "gGW-DA-ds4"; */
+"gGW-DA-ds4.text" = "Nawigacja";
+
+/* Class = "UIButton"; normalTitle = "Wroc"; ObjectID = "kBO-pV-Onj"; */
+"kBO-pV-Onj.normalTitle" = "Wroc";
+
+/* Class = "UILabel"; text = "Ustawienia"; ObjectID = "lGz-uM-sq1"; */
+"lGz-uM-sq1.text" = "Ustawienia";
