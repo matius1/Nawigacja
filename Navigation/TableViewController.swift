@@ -12,11 +12,11 @@ class TableViewController: UIViewController, UITableViewDataSource {
     
     
     let biuro = [
-        ("Dyrektor", "1"),
-        ("Menadzer", "2"),
-        ("Developer", "3"),
-        ("Tester", "4"),
-        ("Scrum Master", "5")
+        ("Politechnika Krakowska WIEIK", "1"),
+        ("Politechnika Krakowska SJO", "2"),
+        ("Galeria Krakowska", "3"),
+        ("Bonarka", "4"),
+        ("Biuro", "5")
         
     ]
     
