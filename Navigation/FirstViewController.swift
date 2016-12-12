@@ -23,7 +23,6 @@ class FirstViewController: UIViewController, UIPickerViewDelegate, UIPickerViewD
         selectedButtonTag = sender.tag
         pickerView.isHidden = false
 //        print(selectedButton)
-        
         print("button \(sender.tag)")
 
     }
@@ -76,8 +75,16 @@ class FirstViewController: UIViewController, UIPickerViewDelegate, UIPickerViewD
         
         buttonsChange()
         
+//        let tap = UIGestureRecognizer(target: self, action: #selector(tapOccured))
+//        view.addGestureRecognizer(tap)
+        
+    }
+    
+    func tapOccured(){
+        print("Tapped")
     }
 
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
